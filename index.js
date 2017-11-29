@@ -6,8 +6,8 @@ function happyHolidaysTo (Joe) {
 return `Happy holidays, ${Joe}!`
 }
 
-function happyHolidayTo (nancy) {
-return  `Happy ${christmas}, ${nancy}!";`
+function happyHolidayTo (christmas, Joe) {
+return  `Happy ${christmas}, ${Joe}!";`
 }
 
 function holidayCountdown (christmas) {
