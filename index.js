@@ -11,5 +11,5 @@ return  `Happy ${christmas}, ${Joe}!";`
 }
 
 function holidayCountdown (christmas) {
-return `It's ${20} days until ${christmas}!";`
+return `It's ${20} days until ${christmas}!
 }
